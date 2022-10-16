@@ -1,2 +1,7 @@
 keonheehan
 1971193
+int main()
+void string
+main()
+finish
+
